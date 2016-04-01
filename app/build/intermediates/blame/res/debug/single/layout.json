@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_live_view.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\layout\\fragment_live_view.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_connecting_view.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\layout\\fragment_connecting_view.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recview.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\layout\\fragment_recview.xml"
+    }
+]

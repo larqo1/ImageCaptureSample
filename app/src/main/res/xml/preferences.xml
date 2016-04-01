@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <PreferenceCategory
+        android:title="CAMERA">
+        
+    	<ListPreference
+    	    android:title="Live View Quality"
+    	    android:entryValues="@array/live_view_quality_value"
+    	    android:entries="@array/live_view_quality"
+    	    android:key="live_view_quality"
+    	    android:defaultValue="QVGA"/>
+
+    	<CheckBoxPreference
+    	    android:key="touch_shutter"
+    	    android:title="Touch Shutter" />
+    			
+    	<CheckBoxPreference
+    	    android:key="show_preview"
+    	    android:title="Show Preview" />
+    	
+    	<PreferenceScreen
+    	    android:key="power_off"
+    	    android:title="Power Off" />
+    	
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="INFORMATION">
+    	
+        <PreferenceScreen
+            android:key="camera_version"
+            android:title="Camera Version"
+            android:selectable="false" />
+        
+        <PreferenceScreen
+            android:key="camerakit_version"
+            android:title="CameraKit Version"
+            android:selectable="false" />
+        
+    </PreferenceCategory>
+    
+</PreferenceScreen>

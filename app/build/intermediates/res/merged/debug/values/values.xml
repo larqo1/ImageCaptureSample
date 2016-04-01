@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="live_view_quality">
+        <item>QVGA (320x240)</item>
+        <item>VGA (640x480)</item>
+        <item>SVGA (800x600)</item>
+        <item>XGA (1024x768)</item>
+    </string-array>
+    <string-array name="live_view_quality_value">
+        <item>QVGA</item>
+        <item>VGA</item>
+        <item>SVGA</item>
+        <item>XGA</item>
+    </string-array>
+    <color name="background_dark">#555555</color>
+    <color name="background_translucent_white">#AAFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ImageCaptureSample</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

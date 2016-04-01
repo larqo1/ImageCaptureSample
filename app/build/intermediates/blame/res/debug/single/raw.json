@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\focusedsound.wav",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\raw\\focusedsound.wav"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shuttersound.wav",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\raw\\shuttersound.wav"
+    }
+]

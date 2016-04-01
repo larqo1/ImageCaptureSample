@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_setting.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\btn_setting.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_wb_setting_wbauto.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\icn_wb_setting_wbauto.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_wb_setting_17.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\icn_wb_setting_17.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_wb_setting_512.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\icn_wb_setting_512.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_wb_setting_20.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\icn_wb_setting_20.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\btn_camera.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shutter.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\btn_shutter.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_drive_setting_seq_l.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\icn_drive_setting_seq_l.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_drive_setting_single.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\icn_drive_setting_single.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_wb_setting_18.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\icn_wb_setting_18.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_touch_off.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\btn_touch_off.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_wb_setting_16.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\icn_wb_setting_16.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_wb_setting_35.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\icn_wb_setting_35.xml"
+    },
+    {
+        "merged": "D:\\ImageCaptureSample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icn_wb_setting_64.xml",
+        "source": "D:\\ImageCaptureSample1\\app\\src\\main\\res\\drawable\\icn_wb_setting_64.xml"
+    }
+]
